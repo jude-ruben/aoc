@@ -1,0 +1,14 @@
+# BFS Maze Solver - Python Dependencies
+# No external dependencies required - uses only Python standard library
+
+# Standard library modules used:
+# - collections.deque (for BFS queue)
+# - bin() (for binary conversion)
+# - set() (for visited tracking)
+
+# Python version requirement
+# Python >= 3.6 (for f-string support)
+
+# If you want to add visualization or testing:
+# matplotlib>=3.0.0  # For advanced maze visualization
+# pytest>=6.0.0     # For unit testing
